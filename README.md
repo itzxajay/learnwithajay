@@ -1,4 +1,4 @@
-# learnwithajay
+# learnwithajay 
 ✨ **Currently updated until Day 29** — new lessons coming soon!  
 Explore daily learning, tutorials, and project code directly at [learnwithajay.dev](https://learnwithajay.dev).  
 
